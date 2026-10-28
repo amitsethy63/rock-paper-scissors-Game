@@ -23,6 +23,7 @@ This is a simple and interactive Rock Paper Scissors game developed using HTML, 
 📂 Project Structure
 
 rock-paper-scissors/
+
 ├── index.html
 
 ├── style.css
