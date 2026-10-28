@@ -20,6 +20,25 @@ This is a simple and interactive Rock Paper Scissors game developed using HTML, 
 - CSS3 – Styling and layout.
 - JavaScript – Game logic, random choices, and score updates.
 
+📂 Project Structure
+
+rock-paper-scissors/
+├── index.html
+
+├── style.css
+
+├── app.js
+
+├── Images/
+
+│   ├── rock.png
+
+│   ├── paper.png
+
+│   └── scissors.png
+
+└── README.md
+
 🚀 How to Run the Project
 
 1. Download or clone this repository.
